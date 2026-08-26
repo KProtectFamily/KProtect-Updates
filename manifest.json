@@ -5,7 +5,7 @@
   "FileSize": 2018,
   "Files": [
     {
-      "FileType": "DomainList",
+      "FileType": 1,
       "FileName": "blocked-domains.txt",
       "DownloadUrl": "https://raw.githubusercontent.com/KProtectFamily/KProtect-Updates/refs/heads/main/blocked-domains.txt",
       "FileSize": 2018,
