@@ -1,0 +1,6 @@
+# KProtect Online-Testliste
+# Version 2026.08.26.1
+
+exampleadultsite.test
+examplegambling.test
+examplemalware.test
