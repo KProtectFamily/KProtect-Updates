@@ -1,17 +1,17 @@
 {
-  "Version": "2026.08.26.4",
-  "ReleaseDate": "2026-08-26T00:00:00",
-  "DomainCount": 120,
-  "FileSize": 2018,
-  "Files": [
-    {
-      "FileType": 1,
-      "FileName": "blocked-domains.txt",
-      "DownloadUrl": "https://raw.githubusercontent.com/KProtectFamily/KProtect-Updates/refs/heads/main/blocked-domains.txt",
-      "FileSize": 2018,
-      "Checksum": "86C5C28BDFEB6A7232FC1121686B865147392C024DF22A9D7CF3E15B234C70E8",
-      "ExpectedEntryCount": 120,
-      "IsRequired": true
-    }
-  ]
+    "ReleaseDate":  "2026-08-26T00:00:00",
+    "FileSize":  2018,
+    "Files":  [
+                  {
+                      "ExpectedEntryCount":  120,
+                      "Checksum":  "86C5C28BDFEB6A7232FC1121686B865147392C024DF22A9D7CF3E15B234C70E8",
+                      "IsRequired":  true,
+                      "DownloadUrl":  "https://raw.githubusercontent.com/KProtectFamily/KProtect-Updates/refs/heads/main/blocked-domains.txt",
+                      "FileType":  1,
+                      "FileName":  "blocked-domains.txt",
+                      "FileSize":  2018
+                  }
+              ],
+    "Version":  "2026.08.26.5",
+    "DomainCount":  120
 }
