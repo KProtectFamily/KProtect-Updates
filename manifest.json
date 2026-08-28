@@ -1,6 +1,6 @@
 {
-  "ReleaseDate": "2026-08-27T00:00:00",
-  "FileSize": 2018,
+  "ReleaseDate": "2026-08-28T00:00:00",
+  "FileSize": 2768,
   "Files": [
     {
       "ExpectedEntryCount": 120,
@@ -10,8 +10,17 @@
       "FileType": 1,
       "FileName": "blocked-domains.txt",
       "FileSize": 2018
+    },
+    {
+      "ExpectedEntryCount": 20,
+      "Checksum": "A3AE11E913CE7D674FF51206310A60BA1243B949638B1661D49B787DC8B48675",
+      "IsRequired": false,
+      "DownloadUrl": "https://raw.githubusercontent.com/KProtectFamily/KProtect-Updates/refs/heads/main/tracking.txt",
+      "FileType": 1,
+      "FileName": "tracking.txt",
+      "FileSize": 750
     }
   ],
-  "Version": "2026.08.27.1",
-  "DomainCount": 120
+  "Version": "2026.08.28.1",
+  "DomainCount": 140
 }
