@@ -13,7 +13,7 @@
     },
     {
       "ExpectedEntryCount": 20,
-      "Checksum": "A3AE11E913CE7D674FF51206310A60BA1243B949638B1661D49B787DC8B48675",
+      "Checksum": "89EC31EAAD11BBF2CA1B540025CF2229956AC41C0E461645FDEDB606F6113E4",
       "IsRequired": false,
       "DownloadUrl": "https://raw.githubusercontent.com/KProtectFamily/KProtect-Updates/refs/heads/main/tracking.txt",
       "FileType": 1,
